@@ -1,1 +1,3 @@
 # TestViteSPA
+
+Vite klassekoding- demo.
