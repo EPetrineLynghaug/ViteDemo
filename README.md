@@ -47,12 +47,13 @@ This document provides an overview of setting up a Vite project and an introduct
 ## Advantages of Advanced JavaScript Data Types
 <details>
   <summary><strong>Click to read more</strong></summary>
+
 1. **String Immutability:** Strings cannot be changed once created, which simplifies memory management.
 2. **Precision with BigInt:** BigInt allows handling very large integers with precision.
 3. **Boolean Logic:** Simplifies conditional logic and decision-making in code.
 4. **Unique Symbols:** Symbols ensure unique property keys, avoiding collisions.
 5. **Efficient Data Structures:** Maps and Sets provide efficient ways to handle collections and ensure uniqueness.
-
+   
 </details>
 
 ## Conclusion
